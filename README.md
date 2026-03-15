@@ -5,7 +5,7 @@ Fraudulent Job Advertisement Detection – GovTech Assessment
 This repository contains the exploratory analysis and summary report for detecting fraudulent job advertisements.
 
 Contents
-- summary_report.pdf – concise summary of findings and proposed approach
+- summary report containing summary of finidngs and approach
 In analysis.zip:
 - analysis.ipynb – exploratory analysis notebook
 - DataSet.csv – dataset used for the analysis
