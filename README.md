@@ -6,7 +6,8 @@ This repository contains the exploratory analysis and summary report for detecti
 
 Contents
 - summary_report.pdf – concise summary of findings and proposed approach
-- notebook/analysis.ipynb – exploratory analysis notebook
-- data/DataSet.csv – dataset used for the analysis
+In analysis.zip:
+- analysis.ipynb – exploratory analysis notebook
+- DataSet.csv – dataset used for the analysis
 
 The notebook includes markdown explanations describing the analysis process and insights.
